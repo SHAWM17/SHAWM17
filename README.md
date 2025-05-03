@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
+
 👯 I’m looking to collaborate on develop web<br>
 📫 How to reach me: email to [saumiyahya17@gmail.com](mailto:saumiyahya17@gmail.com) or Instagram [@svntnn_progg](https://www.instagram.com/svntnn_progg)<br>
 ⚡ Fun fact: **I like discussing** _football⚽, hiking🏔️, cooking🍳, books and novels📘_
